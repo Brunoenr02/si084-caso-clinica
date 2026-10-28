@@ -1,6 +1,6 @@
 # Plan de auditoría · Seguridad del canal digital de la Clínica Santa Lucía
 
-**SI-084 · Auditoría de Sistemas** · Examen práctico de Unidad II · CONFIDENCIAL — USO ACADÉMICO
+**SI-084 · Auditoría de Sistemas** · Examen práctico de Unidad II
 
 | | |
 |---|---|
