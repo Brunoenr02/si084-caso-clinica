@@ -1,0 +1,14 @@
+127.0.0.1:8080  HTTP 200
+127.0.0.1:8081  HTTP 200
+127.0.0.1:8088  HTTP 200
+<title>[PRUEBAS] Clínica Santa Lucía</title>
+<div style="background:#c00;color:#fff;padding:6px">ENTORNO DE PRUEBAS · WebSur S.A.C.</div>
+<!-- Base de datos: copia de producción restaurada el 12/09/2026 para pruebas de la nueva agenda -->
+<!-- usuario de pruebas: admin_pruebas -->
+{
+  "servicio": "api-citas",
+  "version": "1.4.0",
+  "entorno": "produccion",
+  "endpoints": ["/v1/citas", "/v1/pacientes", "/v1/resultados"],
+  "documentacion": "/swagger/"
+}

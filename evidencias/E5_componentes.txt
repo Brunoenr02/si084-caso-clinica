@@ -1,0 +1,4 @@
+/wp-content/themes/medicalpro/style.css?ver=2.1.0
+/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.1
+/wp-includes/js/jquery/jquery.min.js?ver=3.4.1
+/wp-content/plugins/wp-file-manager/lib/js/elfinder.min.js?ver=6.8

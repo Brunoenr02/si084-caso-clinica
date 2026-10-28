@@ -1,0 +1,7 @@
+{
+  "servicio": "api-citas",
+  "version": "1.4.0",
+  "entorno": "produccion",
+  "endpoints": ["/v1/citas", "/v1/pacientes", "/v1/resultados"],
+  "documentacion": "/swagger/"
+}

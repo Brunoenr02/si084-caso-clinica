@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx/1.20.2
+Date: Wed, 28 Oct 2026 20:52:38 GMT
+Content-Type: text/html
+Content-Length: 1273
+Last-Modified: Wed, 28 Oct 2026 20:39:26 GMT
+Connection: keep-alive
+ETag: "6ae25d7e-4f9"
+X-Powered-By: PHP/7.4.3
+Set-Cookie: PHPSESSID=8f3a1c9e2b7d4a60e5; path=/
+Accept-Ranges: bytes
+

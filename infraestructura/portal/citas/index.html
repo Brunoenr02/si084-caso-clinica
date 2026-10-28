@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><meta charset="utf-8"><title>Reserva tu cita · Clínica Santa Lucía</title></head>
+<body>
+<h1>Reserva tu cita</h1>
+<form method="get" action="http://portal.clinica-santalucia.test/citas/registrar.php">
+  <input type="text" name="nombres" placeholder="Nombres y apellidos">
+  <input type="text" name="dni" placeholder="DNI">
+  <input type="date" name="fecha_nacimiento">
+  <input type="text" name="telefono" placeholder="Celular">
+  <input type="email" name="correo" placeholder="Correo">
+  <select name="especialidad"><option>Medicina general</option><option>Pediatría</option><option>Ginecología</option><option>Psiquiatría</option></select>
+  <textarea name="motivo_consulta" placeholder="Describa sus síntomas"></textarea>
+  <input type="hidden" name="medico_id" value="17">
+  <input type="checkbox" name="acepto" value="1">
+  <button type="submit">Reservar</button>
+</form>
+</body>
+</html>

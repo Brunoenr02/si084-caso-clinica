@@ -1,0 +1,29 @@
+== /citas/
+<form method="get" action="http://portal.clinica-santalucia.test/citas/registrar.php">
+<input type="text" name="nombres" placeholder="Nombres y apellidos">
+<input type="text" name="dni" placeholder="DNI">
+<input type="date" name="fecha_nacimiento">
+<input type="text" name="telefono" placeholder="Celular">
+<input type="email" name="correo" placeholder="Correo">
+<select name="especialidad">
+<option>Medicina general
+<option>Pediatría
+<option>Ginecología
+<option>Psiquiatría
+<textarea name="motivo_consulta" placeholder="Describa sus síntomas">
+<input type="hidden" name="medico_id" value="17">
+<input type="checkbox" name="acepto" value="1">
+== /resultados/
+<form method="post" action="http://portal.clinica-santalucia.test/resultados/ver.php">
+<input type="text" name="dni" placeholder="DNI del paciente">
+<input type="password" name="clave" placeholder="Contraseña">
+== /postula/
+<form method="post" enctype="multipart/form-data" action="http://portal.clinica-santalucia.test/wp-admin/admin-ajax.php">
+<input type="text" name="nombres" placeholder="Nombres y apellidos">
+<input type="text" name="dni" placeholder="DNI">
+<input type="email" name="correo" placeholder="Correo">
+<input type="file" name="cv">
+== /admin/
+<form method="post" action="http://portal.clinica-santalucia.test/admin/login.php">
+<input type="text" name="usuario" placeholder="Usuario">
+<input type="password" name="clave" placeholder="Contraseña">

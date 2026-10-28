@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /respaldos/
+Disallow: /resultados/
+Disallow: /wp-content/plugins/wp-file-manager/
+Sitemap: http://portal.clinica-santalucia.test/sitemap.xml

@@ -1,0 +1,11 @@
+<html>
+<head><title>Index of /respaldos/</title></head>
+<body>
+<h1>Index of /respaldos/</h1><hr><pre><a href="../">../</a>
+<a href="citas_export_2026-08.csv">citas_export_2026-08.csv</a>                           28-Oct-2026 20:39                  91
+<a href="portal_2025-09-30.sql.gz">portal_2025-09-30.sql.gz</a>                           28-Oct-2026 20:39                 101
+<a href="portal_2026-03-31.sql.gz">portal_2026-03-31.sql.gz</a>                           28-Oct-2026 20:39                 101
+<a href="wp-config.php.bak">wp-config.php.bak</a>                                  28-Oct-2026 20:39                  90
+</pre><hr></body>
+</html>
+/admin/  HTTP 200

@@ -1,0 +1,6 @@
+Strict-Transport-Security: AUSENTE
+Content-Security-Policy: AUSENTE
+X-Frame-Options: AUSENTE
+X-Content-Type-Options: AUSENTE
+Set-Cookie: PHPSESSID=8f3a1c9e2b7d4a60e5; path=/
+HTTPS 127.0.0.1:443  HTTP 000
