@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **2023077472 – Ancco Suaña, Bruno Enrique** | Alumno |
-| **https://github.com/Brunoenr02/si084-caso-clinica/tree/examen-u2** | URL GitHub |
+| **https://github.com/Brunoenr02/si084-caso-clinica** | URL GitHub |
 | **DR. OSCAR JUAN JIMENEZ FLORES** | Docente |
 | **28/10/2026** | Fecha |
 
@@ -34,13 +34,13 @@ De las ocho declaraciones formuladas por el proveedor WebSur S.A.C., ninguna se 
 
 ---
 
-## 2. Materia de control · Sección III
+## 2. Materia de control
 
 Auditoría de seguridad y protección de datos personales en el canal digital de la Clínica Santa Lucía S.A.C., correspondiente al periodo del 01 de enero al 30 de setiembre de 2026. La comisión auditará esta materia motivada por el incidente crítico reportado el 08/09/2026 y por las observaciones E4 y E7 del reconocimiento, donde se evidenció la exposición pública de parámetros de consulta clínica directa (ver.php?orden=NNNNN) y de copias de seguridad de bases de datos en /respaldos/, amenazando la confidencialidad de la información médica.
 
 ---
 
-## 3. Alcance · Sección IV
+## 3. Alcance
 
 | Bloque | Contenido |
 |---|---|
@@ -51,7 +51,7 @@ Auditoría de seguridad y protección de datos personales en el canal digital de
 
 ---
 
-## 4. Objetivos · Sección V
+## 4. Objetivos
 
 **Objetivo general.**
 Determinar si los controles de seguridad de la información y protección de datos implementados en el canal digital de la Clínica Santa Lucía S.A.C. garantizan de manera razonable la confidencialidad, integridad y disponibilidad de los datos de salud de los pacientes, de conformidad con la Guía de Pruebas de Seguridad Web OWASP WSTG 4.2, el Estándar de Verificación de Seguridad en Aplicaciones OWASP ASVS 4.0.3, la norma NTP-ISO/IEC 27001:2022 y la Ley N.º 29733 de Protección de Datos Personales.
@@ -64,7 +64,7 @@ Determinar si los controles de seguridad de la información y protección de dat
 
 ---
 
-## 5. Enfoque, materialidad y riesgo · Sección VI
+## 5. Enfoque, materialidad y riesgo
 
 | Elemento | Decisión | Sustento en lo que observó o en la solicitud |
 |---|---|---|
@@ -77,7 +77,7 @@ Determinar si los controles de seguridad de la información y protección de dat
 
 ---
 
-## 6. Procedimientos · Sección VII
+## 6. Procedimientos
 
 El programa de auditoría comprende seis procedimientos sustantivos detallados (P-01 a P-06) que dan cobertura integral a los tres objetivos específicos formulados. Cada procedimiento establece su origen en el reconocimiento, criterios técnicos en tres marcos normativos, pruebas detalladas y criterios de excepción medibles, los cuales serán ejecutados por la comisión en la Unidad III sobre la réplica autorizada del canal digital.
 
